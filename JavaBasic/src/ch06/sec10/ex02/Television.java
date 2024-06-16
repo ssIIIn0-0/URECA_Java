@@ -16,5 +16,4 @@ public class Television {
 // 출력이
 // static...
 // static2...
-// MyCompany-LCD
-// 이렇게 나오는데, 관련 영상 6/12 9:30~40사이에 있음 다시 보기
+// MyCompany-LCDs

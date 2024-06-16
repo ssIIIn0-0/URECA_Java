@@ -6,5 +6,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/c/Desktop/URECA/workspace_live/Library/lombok.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
